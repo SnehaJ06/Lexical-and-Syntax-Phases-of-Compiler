@@ -2,7 +2,7 @@
 **Lexical Analysis + Syntax Analysis with Parse Tree**
 
 A complete two-phase compiler front-end for a C subset, implemented in
-pure Python. Works with all 21 sample programs from the FJ3 components PDF.
+pure Python.
 
 ---
 
